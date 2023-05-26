@@ -1,5 +1,13 @@
 # @wagmi/connectors
 
+## 2.0.1
+
+### Patch Changes
+
+- 6aea7ee: Fixed internal types.
+- Updated dependencies [6aea7ee]
+  - @wagmi/chains@0.3.2
+
 ## 2.0.0
 
 ### Patch Changes
